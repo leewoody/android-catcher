@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 import getopt
 import re
 import sys
